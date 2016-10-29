@@ -1,0 +1,23 @@
+{
+  "name": "dash-button",
+  "version": "1.0.0",
+  "description": "dash-button",
+  "main": "index.js",
+  "scripts": {
+	"scan": "dash-button scan",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SamTebbs33/dash-button.git"
+  },
+  "dependencies": {
+	"dash-button": "2.0.0 "
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SamTebbs33/dash-button/issues"
+  },
+  "homepage": "https://github.com/SamTebbs33/dash-button#readme"
+}
