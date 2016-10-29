@@ -1,8 +1,7 @@
-NERF_BUTTON_MAC = "ac:63:be:0e:37:74";
-
 var request = require("request");
-
 var dash_button = require("node-dash-button");
+
+NERF_BUTTON_MAC = "50:f5:da:97:6f:59";
 var dash = dash_button([NERF_BUTTON_MAC], null, null, 'all');
 
 console.log("Listening...");
