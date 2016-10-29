@@ -11,7 +11,8 @@
     "url": "git+https://github.com/SamTebbs33/dash-button.git"
   },
   "dependencies": {
-    "node-dash-button": "^0.6.1"
+    "node-dash-button": "^0.6.1",
+    "request": "^2.76.0"
   },
   "author": "",
   "license": "ISC",
